@@ -24,7 +24,7 @@ The project is structured as follows:
 
 To use this project, follow the steps below:
 
-1. Clone the project repository: `git clone https://github.com/devGeepee/Portfolio`
+1. Clone the project repository: `https://github.com/devGeepee/SQL-Sales-Analysis`
 2. Install the required dependencies (Faker and Pandas)
 3. Run the `data_generation.py` script to generate the dataset.
 4. Import the generated dataset into your preferred database management system.
